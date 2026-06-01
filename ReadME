@@ -4,3 +4,5 @@ TO DO:
     for that to work also need to tweak loginform a bit, instead of tryTeacher and Studentcheck just do a single check where it checks the role
     and the id and finds the matching student, teacher or admin. Can also add a rolle Table so that there can be more roles. This addition makes everything
     fit more the normalisation 3.form
+
+- also add a small game idk what maybe flappy bird if i have time to make a little funny easter egg
